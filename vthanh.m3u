@@ -1,19 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="⚜️| VThanh Network" group-logo="https://cdn.hqth.me/vthanhnetwork.png" tvg-logo="https://cdn.hqth.me/vthanhevent.png", VThanh Event 1
-http://vthanhtivi.pw/vthanhevent1/mpegts
-#EXTINF:-1 group-title="⚜️| VThanh Network" tvg-logo="https://cdn.hqth.me/vthanhevent2.png", VThanh Event 2
-http://vthanhtivi.pw/vthanhevent2/mpegts
-#EXTINF:-1 tvg-id="vthanhmusic" group-title="⚜️| VThanh Network" tvg-logo="https://cdn.hqth.me/vthanhmusic.png", VThanh Music
-http://vthanhtivi.pw/vthanhmusic/mpegts
-#EXTINF:-1 tvg-id="vthanhmusic" group-title="⚜️| VThanh Network" tvg-logo="https://cdn.hqth.me/vthanhmusic.png", VThanh Music (ON Live)
-https://code.vthanhtivi.pw/getlink/onlive/vthanhtivi/231107.m3u8
-#EXTINF:-1 tvg-id="vthanhxtra" group-title="⚜️| VThanh Network" tvg-logo="https://cdn.hqth.me/vthanhxtra.png", VThanh Xtra
-http://vthanhtivi.pw/vthanhxtra/mpegts
-#EXTINF:-1 tvg-id="vthanhmovies" group-title="⚜️| VThanh Network" tvg-logo="https://cdn.hqth.me/vthanhmovies.png", VThanh Movies
-http://vthanhtivi.pw/vthanhmovies/mpegts
-#EXTINF:-1 tvg-id="vthanhanime" group-title="⚜️| VThanh Network" tvg-logo="https://cdn.hqth.me/vthanhanime.png", VThanh Anime (Thử nghiệm)
-http://vthanhtivi.pw/vthanhanime/mpegts
-	
 #EXTINF:-1 tvg-id="vtv1hd" group-title="❤| VTV" group-logo="https://cdn.hqth.me/logo/category/vtv.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png", VTV1
 https://code.vthanhtivi.pw/getlink/tv360/B0lI6D3YxmFCq3saXqF4iw/1703793674/2/playlist.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png", VTV2
