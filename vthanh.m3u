@@ -1,17 +1,3 @@
-#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml,http://cdn.hqth.me/vthanhmovies_schedule.xml"
-#Tham gia group Zalo để nhận thông báo: https://zalo.me/g/mdrity300
-#Hôm nay đã có 17 lượt truy cập tới list
-
-#EXTINF:-1 group-title="ℹ️| Info" tvg-logo="https://cdn.hqth.me/qrzalovthanh2.png", Tham gia group Zalo VThanhTivi
-http://vthanhtivi.pw:5000/vod/intro2012.mp4/index.m3u8
-#EXTINF:-1 group-title="ℹ️| Info" tvg-logo="https://cdn.hqth.me/qrvcb.png", Donate/Ủng hộ dự án
-http://plus.vthanhtivi.pw/donate/donate.m3u8
-#EXTINF:-1 group-title="ℹ️| Info" tvg-logo="https://cdn.hqth.me/vthanhtivi.png", Cập nhật lần cuối: 29/12/2023 00:01:14
-http://vthanhtivi.pw:5000/vod/intro2012.mp4/index.m3u8
-#EXTINF:-1 group-title="ℹ️| Info" tvg-logo="https://cdn.hqth.me/vthanhtivi.png", Hôm nay đã có 17 lượt truy cập tới list
-http://vthanhtivi.pw:5000/vod/intro2012.mp4/index.m3u8
-
-
 #EXTINF:-1 group-title="⚜️| VThanh Network" group-logo="https://cdn.hqth.me/vthanhnetwork.png" tvg-logo="https://cdn.hqth.me/vthanhevent.png", VThanh Event 1
 http://vthanhtivi.pw/vthanhevent1/mpegts
 #EXTINF:-1 group-title="⚜️| VThanh Network" tvg-logo="https://cdn.hqth.me/vthanhevent2.png", VThanh Event 2
